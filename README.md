@@ -12,3 +12,5 @@ Used Libraries:
 2. Textblob
 3. newspaper
 4. Tkinter
+
+Note: During first run, uncomment the 'nltk.download()' to download the 'punkt' file, after that you can comment it again.
